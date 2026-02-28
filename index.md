@@ -19,11 +19,9 @@ title: TBR Games
     </div>
   </a>
 
-  <a href="{{ '/games/the-dark-tbr/' | relative_url }}" class="game-card game-card--dark-tbr">
-    <div class="card-thumb card-thumb--placeholder">
-      <div class="dark-tbr-placeholder">
-        <div class="tower"></div>
-      </div>
+  <a href="{{ '/games/the-dark-tbr/' | relative_url }}" class="game-card">
+    <div class="card-thumb">
+      <img src="{{ '/assets/images/the-dark-tbr-thumb.png' | relative_url }}" alt="The Dark TBR" />
     </div>
     <div class="card-info">
       <h2>The Dark TBR</h2>
