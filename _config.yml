@@ -1,0 +1,13 @@
+title: TBR Games
+description: Board games that help you pick what to read next
+url: https://tbr.games
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - CLAUDE.md
+  - README.md

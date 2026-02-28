@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="game-detail" style="--accent: {{ page.accent_color }}; --bg: {{ page.bg_color }};">
+  <div class="game-hero">
+    <h1>{{ page.title }}</h1>
+    <p class="tagline">{{ page.tagline }}</p>
+  </div>
+
+  <div class="game-body">
+    {{ content }}
+
+    {% if page.youtube_url %}
+    <div class="game-video">
+      <a href="{{ page.youtube_url }}" class="video-link">Watch gameplay on YouTube &rarr;</a>
+    </div>
+    {% endif %}
+  </div>
+
+  <a href="{{ '/' | relative_url }}" class="back-link">&larr; All Games</a>
+</article>
