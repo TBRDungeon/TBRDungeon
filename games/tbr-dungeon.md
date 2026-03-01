@@ -6,8 +6,8 @@ accent_color: "#c9a84c"
 bg_color: "#1a0a2e"
 youtube_id: YOUR_VIDEO_ID
 screenshots: []
-mac_download_url: "#"
-windows_download_url: "#"
+mac_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/TheTBRDungeon-Mac.zip"
+windows_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/TheTBRDungeon-Windows.zip"
 ---
 
 The TBR Dungeon is a Phaser 3 board game where you navigate a procedurally generated dungeon filled with books. Each room presents choices that shape your reading list, challenging you to balance genres, page counts, and your ever-growing to-be-read pile.
