@@ -9,13 +9,43 @@ layout: default
 
   <div class="game-body">
     {{ content }}
-
-    {% if page.youtube_url %}
-    <div class="game-video">
-      <a href="{{ page.youtube_url }}" class="video-link">Watch gameplay on YouTube &rarr;</a>
-    </div>
-    {% endif %}
   </div>
+
+  {% if page.screenshots.size > 0 %}
+  <section class="game-screenshots">
+    <h2>Screenshots</h2>
+    <div class="screenshot-row">
+      {% for img in page.screenshots %}
+      <a href="{{ '/assets/images/screenshots/' | append: page.slug | append: '/' | append: img | relative_url }}" class="screenshot-item">
+        <img src="{{ '/assets/images/screenshots/' | append: page.slug | append: '/' | append: img | relative_url }}" alt="{{ page.title }} screenshot" loading="lazy">
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.youtube_id and page.youtube_id != "YOUR_VIDEO_ID" %}
+  <section class="game-video">
+    <h2>Video</h2>
+    <div class="video-wrapper">
+      <iframe src="https://www.youtube-nocookie.com/embed/{{ page.youtube_id }}" title="{{ page.title }} gameplay video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </section>
+  {% endif %}
+
+  {% if page.mac_download_url and page.mac_download_url != "#" or page.windows_download_url and page.windows_download_url != "#" %}
+  <section class="game-downloads">
+    <h2>Download</h2>
+    <div class="download-buttons">
+      {% if page.mac_download_url and page.mac_download_url != "#" %}
+      <a href="{{ page.mac_download_url }}" class="download-btn">Download for Mac</a>
+      {% endif %}
+      {% if page.windows_download_url and page.windows_download_url != "#" %}
+      <a href="{{ page.windows_download_url }}" class="download-btn">Download for Windows</a>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
 
   <a href="{{ '/' | relative_url }}" class="back-link">&larr; All Games</a>
 </article>
