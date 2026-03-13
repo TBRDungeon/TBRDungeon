@@ -15,7 +15,7 @@ title: TBR Games
     </div>
     <div class="card-info">
       <h2>The TBR Dungeon</h2>
-      <p>Explore a dungeon of books and build the ultimate reading list</p>
+      <p>Descend 3 floors, battle 14 bosses, and let a snarky AI build your reading list</p>
     </div>
   </a>
 
@@ -25,7 +25,7 @@ title: TBR Games
     </div>
     <div class="card-info">
       <h2>The Dark TBR</h2>
-      <p>A darker challenge awaits those who dare to curate</p>
+      <p>Walk the Path of the Beam as a gunslinger and carry your reading list to the Tower</p>
     </div>
   </a>
 </section>
