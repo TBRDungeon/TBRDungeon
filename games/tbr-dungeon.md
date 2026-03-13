@@ -5,6 +5,7 @@ tagline: "The System has selected you. Congratulations, crawler."
 accent_color: "#6a4c93"
 bg_color: "#1a0a2e"
 youtube_id: YOUR_VIDEO_ID
+banner: tbr-dungeon.png
 screenshots:
     - "tbr-dungeon/The TBR Dungeon - Title.jpg"
     - "tbr-dungeon/The TBR Dungeon - Help.jpg"
