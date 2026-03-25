@@ -28,4 +28,34 @@ title: TBR Games
       <p>Walk the Path of the Beam as a gunslinger and carry your reading list to the Tower</p>
     </div>
   </a>
+
+  <a href="{{ '/games/gentlemen-bastards/' | relative_url }}" class="game-card">
+    <div class="card-thumb">
+      <div class="placeholder-thumb gentlemen-bastards-placeholder"></div>
+    </div>
+    <div class="card-info">
+      <h2>Gentlemen BasTBRds</h2>
+      <p>Pull off a literary heist across three cities with the Crooked Warden as your guide</p>
+    </div>
+  </a>
+
+  <a href="{{ '/games/bibliomancer/' | relative_url }}" class="game-card">
+    <div class="card-thumb">
+      <div class="placeholder-thumb bibliomancer-placeholder"></div>
+    </div>
+    <div class="card-info">
+      <h2>Bibliomancer</h2>
+      <p>Fight through a library dungeon with spell cards powered by real books</p>
+    </div>
+  </a>
+
+  <a href="{{ '/games/bookworm-bazaar/' | relative_url }}" class="game-card">
+    <div class="card-thumb">
+      <div class="placeholder-thumb bookworm-bazaar-placeholder"></div>
+    </div>
+    <div class="card-info">
+      <h2>Bookworm Bazaar</h2>
+      <p>Run a cozy bookshop for 3 days and build your reading list one customer at a time</p>
+    </div>
+  </a>
 </section>
