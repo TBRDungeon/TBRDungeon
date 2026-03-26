@@ -5,8 +5,14 @@ tagline: "Nice bird, asshole."
 accent_color: "#2d5a27"
 bg_color: "#0a0a0f"
 youtube_id: YOUR_VIDEO_ID
-banner: ""
-screenshots: []
+banner: gentlemen-bastards.png
+screenshots:
+- gentlemen-bastards/title.png
+- gentlemen-bastards/board.png
+- gentlemen-bastards/level2.png
+- gentlemen-bastards/card.png
+- gentlemen-bastards/level3.png
+- gentlemen-bastards/heist.png
 mac_download_url: "#"
 windows_download_url: "#"
 ---

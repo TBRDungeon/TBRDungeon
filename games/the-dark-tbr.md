@@ -4,7 +4,7 @@ title: The Dark TBR
 tagline: "The man in black fled across the desert, and the reader followed."
 accent_color: "#8b0000"
 bg_color: "#0a0a0f"
-youtube_id: YOUR_VIDEO_ID
+youtube_id: 4L_w5WvfwBY
 banner: the-dark-tbr.png
 screenshots:
     - "the-dark-tbr/The Dark TBR - Title.jpg"

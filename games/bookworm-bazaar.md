@@ -5,8 +5,14 @@ tagline: "Every reader deserves the right book. Every book deserves the right sh
 accent_color: "#c4835a"
 bg_color: "#12100d"
 youtube_id: YOUR_VIDEO_ID
-banner: ""
-screenshots: []
+banner: bookstore-bazaar.png
+screenshots:
+ - bookworm-bazaar/title.png
+ - bookworm-bazaar/ghost.png
+ - bookworm-bazaar/no-title.png
+ - bookworm-bazaar/upgrade.png
+ - bookworm-bazaar/cat-character.png
+ - bookworm-bazaar/warm-hug.png
 mac_download_url: "#"
 windows_download_url: "#"
 ---

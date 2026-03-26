@@ -5,8 +5,13 @@ tagline: "Every spell has a spine. Every page has power."
 accent_color: "#7b5ea7"
 bg_color: "#0d0b14"
 youtube_id: YOUR_VIDEO_ID
-banner: ""
-screenshots: []
+banner: bibliomancer.png
+screenshots:
+ - bibliomancer/title.png
+ - bibliomancer/campfire.png
+ - bibliomancer/dungeon.png
+ - bibliomancer/battle.png
+ - bibliomancer/victory.png
 mac_download_url: "#"
 windows_download_url: "#"
 ---

@@ -31,7 +31,7 @@ title: TBR Games
 
   <a href="{{ '/games/gentlemen-bastards/' | relative_url }}" class="game-card">
     <div class="card-thumb">
-      <div class="placeholder-thumb gentlemen-bastards-placeholder"></div>
+      <img src="{{ '/assets/images/gentlemen-bastards-thumb.png' | relative_url }}" alt="Gentlemen BasTBRds" />
     </div>
     <div class="card-info">
       <h2>Gentlemen BasTBRds</h2>
@@ -41,7 +41,7 @@ title: TBR Games
 
   <a href="{{ '/games/bibliomancer/' | relative_url }}" class="game-card">
     <div class="card-thumb">
-      <div class="placeholder-thumb bibliomancer-placeholder"></div>
+      <img src="{{ '/assets/images/bibliomancer-thumb.png' | relative_url }}" alt="Bibliomancer" />
     </div>
     <div class="card-info">
       <h2>Bibliomancer</h2>
@@ -51,7 +51,7 @@ title: TBR Games
 
   <a href="{{ '/games/bookworm-bazaar/' | relative_url }}" class="game-card">
     <div class="card-thumb">
-      <div class="placeholder-thumb bookworm-bazaar-placeholder"></div>
+      <img src="{{ '/assets/images/bookworm-bazaar-thumb.png' | relative_url }}" alt="Bookworm Bazaar" />
     </div>
     <div class="card-info">
       <h2>Bookworm Bazaar</h2>

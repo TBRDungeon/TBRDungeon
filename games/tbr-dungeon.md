@@ -4,7 +4,7 @@ title: The TBR Dungeon
 tagline: "The System has selected you. Congratulations, crawler."
 accent_color: "#6a4c93"
 bg_color: "#1a0a2e"
-youtube_id: YOUR_VIDEO_ID
+youtube_id: 2ukN_vBrq1Y
 banner: tbr-dungeon.png
 screenshots:
     - "tbr-dungeon/The TBR Dungeon - Title.jpg"
