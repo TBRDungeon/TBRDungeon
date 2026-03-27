@@ -13,8 +13,8 @@ screenshots:
  - bookworm-bazaar/upgrade.png
  - bookworm-bazaar/cat-character.png
  - bookworm-bazaar/warm-hug.png
-mac_download_url: "#"
-windows_download_url: "#"
+mac_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/BookwormBazaar-Mac.zip"
+windows_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/BookwormBazaar-Windows.zip"
 ---
 
 The bell above the door chimes. A customer walks in, scans the shelves, and turns to you: "I need something that'll make me ugly cry." You have three days to stock the most beloved little bookshop in town — and every book you shelve becomes part of your reading list. The shop cat watches from the windowsill. No pressure.

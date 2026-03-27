@@ -13,8 +13,8 @@ screenshots:
 - gentlemen-bastards/card.png
 - gentlemen-bastards/level3.png
 - gentlemen-bastards/heist.png
-mac_download_url: "#"
-windows_download_url: "#"
+mac_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/GentlemenBasTBRds-Mac.zip"
+windows_download_url: "https://github.com/TBRDungeon/TBRGamesReleases/releases/latest/download/GentlemenBasTBRds-Windows.zip"
 ---
 
 You are a thief. A liar. A gentleman. And tonight, the Crooked Warden has a job for you — pull off the greatest literary heist across three cities, and walk away with a reading list worth dying for. Roll the dice, play the long con, and pray the Yellowjackets don't catch you with too many books in your pockets.
