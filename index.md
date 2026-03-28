@@ -49,6 +49,16 @@ title: TBR Games
     </div>
   </a>
 
+  <a href="{{ '/games/spine-crawler/' | relative_url }}" class="game-card">
+    <div class="card-thumb">
+      <img src="{{ '/assets/images/spine-crawler-thumb.png' | relative_url }}" alt="Spine Crawler" />
+    </div>
+    <div class="card-info">
+      <h2>Spine Crawler</h2>
+      <p>Type your way through a procedural library-dungeon in this 1980s-style text adventure</p>
+    </div>
+  </a>
+
   <a href="{{ '/games/bookworm-bazaar/' | relative_url }}" class="game-card">
     <div class="card-thumb">
       <img src="{{ '/assets/images/bookworm-bazaar-thumb.png' | relative_url }}" alt="Bookworm Bazaar" />
