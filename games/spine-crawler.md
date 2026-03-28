@@ -8,10 +8,11 @@ youtube_id: YOUR_VIDEO_ID
 banner: spine-crawler.png
 screenshots:
   - spine-crawler/title.png
-  - spine-crawler/entrance.png
+  - spine-crawler/entry.png
   - spine-crawler/library.png
-  - spine-crawler/combat.png
-  - spine-crawler/map.png
+  - spine-crawler/boss.png
+  - spine-crawler/library.png
+  - spine-crawler/defeat.png
 mac_download_url: "#"
 windows_download_url: "#"
 ---
